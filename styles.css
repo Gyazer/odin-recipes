@@ -1,0 +1,69 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#flag {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    border: 5px solid #000000
+}
+#main-heading {
+    text-align: center;
+    font-size: 45px;
+    color:rgb(247, 74, 74);
+    font-weight: bolder;
+    outline: auto;
+}
+
+.recipe-link {
+    text-align: center;
+    font-size: 30px;
+    background-color: rgba(255, 0, 0, 0.493)
+}
+
+/* end of index styling hehe */
+.general-text-one {
+    text-align:center;
+}
+
+.general-text-two {
+    text-align:center;
+}
+
+.general-text-three {
+    text-align:center;
+}
+
+.ing-list {
+    display:inline-block;
+    text-align:left;
+}
+
+.ing-list-heading {
+    text-align:center;
+}
+
+.steps-list {
+    display:inline-block;
+    text-align:left;
+}
+
+div .recipe-header-main {
+    text-align:center;
+    font-size: 30px;
+}
+
+.recipe-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:auto;
+}
+
+div .desc-header {
+    text-align: center;
+    font-size: 28px;
+
+}
